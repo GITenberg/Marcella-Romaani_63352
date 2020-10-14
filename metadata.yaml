@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '45405'
     url: http://www.gutenberg.org/2009/agents/45405
     wikipedia: https://fi.wikipedia.org/wiki/Toini_Swan
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ward, Humphry, Mrs.
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2629
     wikipedia: http://en.wikipedia.org/wiki/Mary_Augusta_Ward
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63352#Marcella-Romaani
 gutenberg_issued: '2020-10-01'
 gutenberg_type: Text
 identifiers:
